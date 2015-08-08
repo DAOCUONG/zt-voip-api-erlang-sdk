@@ -1,0 +1,13 @@
+{application, kazoo_erlang_sdk,
+[
+    {description, "Erlang SDK for Kazoo"},
+    {vsn, "2.0.0"},
+    {modules, [
+    ]},
+    {registered, []},
+    {applications, [
+        kernel,
+        stdlib
+    ]},
+    {env, []}
+]}.
